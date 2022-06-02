@@ -7,5 +7,6 @@ public class user {
         System.out.println("dev分支修改");
         System.out.println("dev第二次分支修改");
         System.out.println("master第九行");
+        System.out.println("dev冲突");
     }
 }
